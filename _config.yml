@@ -1,1 +1,17 @@
+title: Título
+author:
+  name: erendiram
+  email: erendira@erendira.com
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  Blog de matemáticas, feminismo y rumba. Eventos, temas de discusión y mucho gozo.
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+github_username:  EreMun
+show_excerpts: false # set to true to show excerpts on the homepage
+
 theme: jekyll-theme-minimal
+  date_format: "%b %-d, %Y"
